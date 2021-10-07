@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.exe
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.dll
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\bin\Debug\netcoreapp3.1\SubtituteCharacters.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.dll
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.pdb
+C:\Users\opilane\source\repos\LOGITpe21\MorestringsExercises\SubtituteCharacters\obj\Debug\netcoreapp3.1\SubtituteCharacters.genruntimeconfig.cache
